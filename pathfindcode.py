@@ -4,7 +4,7 @@ import heapq
 
 pygame.init()
 
-# config
+# making rows and collums aswell as colours setup
 ROWS, COLS = 30, 40
 CELL_SIZE = 20
 WIDTH, HEIGHT = COLS * CELL_SIZE, ROWS * CELL_SIZE
